@@ -1,4 +1,6 @@
-# `stm32f103xx`
+# `stm32f103xx-interrupt`
+
+## [Diclaimer] Keep only the interrupt part of 'stm32f103xx'
 
 > Peripheral access API for STM32F103XX microcontrollers
 
